@@ -4,8 +4,8 @@ import os
 
 # Usage: python filter_and_split.py (target dir) (outputdir)
 
-# CUTOFF = 3.25
-CUTOFF = 2.5
+CUTOFF = 3.25
+# CUTOFF = 2.5
 MIN_ATOM = 30
 MAX_ATOM = 100000
 
